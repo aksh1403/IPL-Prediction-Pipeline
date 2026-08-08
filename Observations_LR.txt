@@ -1,0 +1,10 @@
+Logistic Regression Model- 
+Confusion Matrix:
+[[5274 1417]
+ [1401 6177]]
+
+F1 Score: 0.8142631162668073
+
+ROC AUC Score: 0.8016728548872625
+
+**Scaling not done as it was giving worse scores.
